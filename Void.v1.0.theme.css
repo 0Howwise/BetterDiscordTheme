@@ -1,0 +1,103 @@
+//META{"name":"Void","description":"Void.","author":"Howwise","version":"1.0"}*//
+
+.theme-dark .messages-wrapper {
+    /* background: #0f5e9c; */
+	background-image: url("https://i.imgur.com/fA2Fa2I.gif");
+	/* https://i.ytimg.com/vi/d-zKJCKsoWw/maxresdefault.jpg */
+}
+
+.theme-dark .scroller-fzNley {
+ background: #070707;
+ text-decoration-color: #FFFFFF;
+ opacity: 2;
+}
+
+/* Top bar */
+.theme-dark .header-1tSljs {
+	background-color: #000000;
+}
+
+.theme-dark .container-3NvGrL {
+	color: rgb(14, 36, 96);
+}
+
+.theme-dark .search-bar {
+	background-color: #000000;
+}
+
+.theme-dark .title-wrap.title-wrap-dark {
+	background: #000000;
+}
+
+.theme-dark .guilds.scroller {
+	background: #000000;
+}
+/* end */
+
+/* friends online */
+.theme-dark .friends-online {
+	color: #ffffff;
+}
+
+.theme-dark .friends-icon {
+	color: rgb(14, 36, 96);
+}
+
+/* end */
+
+/* bottom things */
+.theme-dark .chat form  {
+    box-shadow: none;
+    background-color: #000000;
+    margin: 0px;
+    padding: 0px 20px;
+}
+
+.theme-dark .inner-3if5cm {
+    background-color: #070707;
+}
+
+
+/* profile and settings area */
+.theme-dark .container-iksrDt {
+	background: #000000;
+}
+
+/* end */
+
+/* plus icon */
+.theme-dark .attachButtonPlus-2l1NEU {
+    fill: rgb(14, 36, 96);c;
+    opacity: 1.0;
+}
+
+.theme-dark .attachButtonPlus-2l1NEU:hover {
+    fill: #0f5e9c;
+    opacity: 1.0;
+}
+/* end */
+
+.theme-dark .uploadInput-3oaE4N {
+	text-decoration-color: #2f3136;
+}
+
+.theme-dark .messages-wrapper .messages .divider:not(.red) span {
+    background-color: rgb(14, 36, 96);
+}
+
+.theme-dark .buttonBrandFilledDefault-2Rs6u5 {
+	background-color: rgb(14, 36, 96);
+}
+
+.theme-dark .scrollbarGhost-K_3Xa9 {
+	 background: #070707;
+
+}
+
+
+
+
+
+
+
+
